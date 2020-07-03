@@ -13,7 +13,7 @@ public class DBConnection {
     private static final String driverName = "com.mysql.jdbc.Driver";
     private static final String url = "jdbc:mysql://localhost:3306/testDB?useUnicode=true&characterEncoding=UTF-8";
     private static final String user = "root";
-    private static final String password = "roof";
+    private static final String password = "a111";
 
     private DBConnection() {
     }

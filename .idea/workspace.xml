@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5606280-be2f-41b0-a41d-26312d124728" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/realm/MyRealm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/realm/MyRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/util/CryptographyUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/com/hly/shiro/util/CryptographyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-authentication-all-fail.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-authentication-all-success.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-authentication-atLeastOne-success.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-authentication-atLeastTwo-success.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-authentication-first-success.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-authentication-onlyone-success.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-jdbc-realm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-multi-realm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro-realm.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authentication/shiro.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authorization/shiro-authorizer.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authorization/shiro-permission.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/authorization/shiro-role.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/iniConfig/shiro-config-main.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/shiro/iniConfig/shiro-config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHIRO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet/target/classes/FirstServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet/target/classes/SecondServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JPA_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JPA_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JPA_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JPA_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Java_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Java_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Java_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Java_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SHIRO_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SHIRO_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SHIRO_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SHIRO_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Servlet_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Servlet_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Servlet_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Servlet_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_8_2_2_jre8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_0_M1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0_M1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_0_M1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0_M1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPA/JPA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JPA/JPA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/hly/java/JDBC/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/hly/java/JDBC/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHIRO/SHIRO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SHIRO/SHIRO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHIRO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SHIRO/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servlet/Servlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet/Servlet.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e9fjaeRw3mh5OHtzM2pyynzdZ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5606280-be2f-41b0-a41d-26312d124728" name="Default Changelist" comment="" />
+      <created>1593738864216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593738864216</updated>
+      <workItem from="1593738866133" duration="3053000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1593741922192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593741922192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="71" y="47" key="CommitChangelistDialog2" timestamp="1593741922210">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="71" y="47" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1593741922210" />
+    <state x="144" y="79" key="DiffContextDialog" timestamp="1593741871438">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="144" y="79" key="DiffContextDialog/0.0.1500.960@0.0.1500.960" timestamp="1593741871438" />
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1593740585650">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1593740585650" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1593740585649">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1593740585649" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1593740585649">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1593740585649" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1593740585650">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1593740585650" />
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1593741822236">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1593741822236" />
+  </component>
+</project>
